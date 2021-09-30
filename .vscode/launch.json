@@ -1,0 +1,77 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Rectangle",
+            "request": "launch",
+            "mainClass": "Rectangle",
+            "projectName": "Java Codes_a5e4d1d1"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Employee",
+            "request": "launch",
+            "mainClass": "Employee",
+            "projectName": "Java Codes_cfb66253"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Laptop",
+            "request": "launch",
+            "mainClass": "Laptop",
+            "projectName": "Java Codes_cfb66253"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Profit_loss",
+            "request": "launch",
+            "mainClass": "Profit_loss",
+            "projectName": "Java Codes_cfb66253"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Student",
+            "request": "launch",
+            "mainClass": "Student",
+            "projectName": "Java Codes_cfb66253"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Rectangle",
+            "request": "launch",
+            "mainClass": "Rectangle",
+            "projectName": "Java Codes_cfb66253"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-FirstClass<Java Codes_cfb66253>",
+            "request": "launch",
+            "mainClass": "FirstClass",
+            "projectName": "Java Codes_cfb66253"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-OddOrEven<Java Codes_cfb66253>",
+            "request": "launch",
+            "mainClass": "OddOrEven",
+            "projectName": "Java Codes_cfb66253"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-main<Java Codes_cfb66253>",
+            "request": "launch",
+            "mainClass": "main",
+            "projectName": "Java Codes_cfb66253"
+        }
+    ]
+}
